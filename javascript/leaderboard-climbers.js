@@ -1,3 +1,5 @@
+
+// Sort Leaderboard based on score
 function leaderboardSort(leaderboard, changes) {
   names = [];
   nums = [];
